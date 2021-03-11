@@ -7,8 +7,8 @@ if(instance_exists(followObject)){
 
 //gets the diiference between the target coordinates
 //divides it by 15 each frame to create smooth camera movement
-x += (goTo[0] - x) / 15;
-y += (goTo[1] - y) / 15;
+x += (goTo[0] - x) / 20;
+y += (goTo[1] - y) / 20;
 
 //keeps camera from moveing outside of the room
 x = clamp(x, viewWidthHalf, room_width-viewWidthHalf);

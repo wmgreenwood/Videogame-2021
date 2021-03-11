@@ -1,4 +1,4 @@
-//Remove comment when player state machine is set up
+//Remove comment when rmIntitialize is fixed
 
 
 //Pauses game
