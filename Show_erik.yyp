@@ -1,16 +1,20 @@
 {
   "resources": [
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},"order":1,},
+    {"id":{"name":"rmLevel2","path":"rooms/rmLevel2/rmLevel2.yy",},"order":3,},
+    {"id":{"name":"sNextRoom","path":"sprites/sNextRoom/sNextRoom.yy",},"order":5,},
+    {"id":{"name":"PlayerSetCoordiantes","path":"scripts/PlayerSetCoordiantes/PlayerSetCoordiantes.yy",},"order":2,},
     {"id":{"name":"rmLevel1","path":"rooms/rmLevel1/rmLevel1.yy",},"order":0,},
+    {"id":{"name":"oNextRoom","path":"objects/oNextRoom/oNextRoom.yy",},"order":4,},
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},"order":0,},
-    {"id":{"name":"Joeyisamassivebutthead","path":"sprites/Joeyisamassivebutthead/Joeyisamassivebutthead.yy",},"order":2,},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},"order":1,},
     {"id":{"name":"oGame","path":"objects/oGame/oGame.yy",},"order":1,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":0,},
     {"id":{"name":"rmIntitialize","path":"rooms/rmIntitialize/rmIntitialize.yy",},"order":1,},
+    {"id":{"name":"TransitionMode","path":"scripts/TransitionMode/TransitionMode.yy",},"order":1,},
+    {"id":{"name":"oTransition","path":"objects/oTransition/oTransition.yy",},"order":2,},
     {"id":{"name":"sPlayerIdle","path":"sprites/sPlayerIdle/sPlayerIdle.yy",},"order":0,},
     {"id":{"name":"PlayerStateFree","path":"scripts/PlayerStateFree/PlayerStateFree.yy",},"order":0,},
-    {"id":{"name":"JoeyTheButthead","path":"objects/JoeyTheButthead/JoeyTheButthead.yy",},"order":2,},
     {"id":{"name":"sPlayerRun","path":"sprites/sPlayerRun/sPlayerRun.yy",},"order":1,},
   ],
   "Options": [
@@ -31,6 +35,7 @@
     {"roomId":{"name":"","path":"",},},
     {"roomId":{"name":"rmLevel1","path":"rooms/rmLevel1/rmLevel1.yy",},},
     {"roomId":{"name":"rmIntitialize","path":"rooms/rmIntitialize/rmIntitialize.yy",},},
+    {"roomId":{"name":"rmLevel2","path":"rooms/rmLevel2/rmLevel2.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},

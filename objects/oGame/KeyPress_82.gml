@@ -1,1 +1,1 @@
-game_restart();
+TransitionMode(TRANS_MODE.RESTART, -1);
