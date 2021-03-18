@@ -6,5 +6,5 @@ moveJump = keyboard_check_pressed(vk_space) || mouse_check_button_pressed(mb_lef
 //State machine
 script_execute(state);
 
-//Kill barier: currently broken; broke when trasistions were applied
-//if(y > room_height) room_restart();
+//Kill barier
+if(y > room_height) PlayerSetCoordiantes();

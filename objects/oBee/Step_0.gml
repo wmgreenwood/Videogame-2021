@@ -1,0 +1,1 @@
+y = Wave(int_y+bee_amp, int_y-bee_amp, bee_speed);

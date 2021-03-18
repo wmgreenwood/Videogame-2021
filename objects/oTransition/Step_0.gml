@@ -1,6 +1,6 @@
 if(mode != TRANS_MODE.OFF){
 	if(mode = TRANS_MODE.INTRO){
-		percent = max(0, percent * 0.9);
+		percent = max(0, percent * 0.905);
 	}else{
 		percent = min(targetShoot, percent + max(((targetShoot - percent)/20), 0.005));
 	}
