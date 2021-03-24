@@ -1,0 +1,1 @@
+NewTextBox("This is a sample string\nWe can use this text effect at anytime!");
