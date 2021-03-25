@@ -2,11 +2,11 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Commands",
-    "path": "folders/Scripts/Commands.yy",
+    "name": "Helpers",
+    "path": "folders/Scripts/Helpers.yy",
   },
   "resourceVersion": "1.0",
-  "name": "HitEnemy",
+  "name": "NineSliceBox",
   "tags": [],
   "resourceType": "GMScript",
 }

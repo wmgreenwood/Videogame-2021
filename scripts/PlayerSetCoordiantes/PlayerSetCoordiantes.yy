@@ -2,8 +2,8 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Helpers",
-    "path": "folders/Scripts/Helpers.yy",
+    "name": "Commands",
+    "path": "folders/Scripts/Commands.yy",
   },
   "resourceVersion": "1.0",
   "name": "PlayerSetCoordiantes",

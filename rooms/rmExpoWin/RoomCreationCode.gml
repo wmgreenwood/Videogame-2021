@@ -1,0 +1,1 @@
+NewTextBox("you win\n\n> Press Space to Continue <");

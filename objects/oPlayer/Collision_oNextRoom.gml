@@ -1,1 +1,1 @@
-TransitionMode(TRANS_MODE.GOTO, rmLevel2);
+TransitionMode(TRANS_MODE.NEXT, -1);

@@ -6,7 +6,7 @@
     "path": "folders/Scripts/Commands.yy",
   },
   "resourceVersion": "1.0",
-  "name": "HitEnemy",
+  "name": "NextRoom",
   "tags": [],
   "resourceType": "GMScript",
 }

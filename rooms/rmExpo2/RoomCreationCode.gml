@@ -1,0 +1,1 @@
+NewTextBox("second\n\n> Press Space to Continue <");
