@@ -12,7 +12,7 @@ y += (goTo[1] - y) / 20;
 
 //keeps camera from moveing outside of the room
 x = clamp(x, viewWidthHalf, room_width-viewWidthHalf);
-y = clamp(y, viewHeightHalf, room_width-viewHeightHalf);
+y = clamp(y, viewHeightHalf, room_height-viewHeightHalf);
 
 //updates camera position
 camera_set_view_pos(cam, x-viewWidthHalf, y-viewHeightHalf);

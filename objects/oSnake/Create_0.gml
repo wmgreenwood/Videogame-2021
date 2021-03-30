@@ -1,0 +1,1 @@
+createVenomSpeed = spitSpeed*60;

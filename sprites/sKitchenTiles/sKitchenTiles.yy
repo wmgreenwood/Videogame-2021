@@ -8,13 +8,13 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 7,
-  "bbox_right": 159,
+  "bbox_right": 271,
   "bbox_top": 0,
   "bbox_bottom": 175,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 160,
+  "width": 272,
   "height": 176,
   "textureGroupId": {
     "name": "Default",
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"97522921-ebb2-410f-b063-19daf937cdc8","path":"sprites/sKitchenTiles/sKitchenTiles.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"97522921-ebb2-410f-b063-19daf937cdc8","path":"sprites/sKitchenTiles/sKitchenTiles.yy",},"LayerId":{"name":"dc95458e-c69e-4bcb-afce-1941572564b8","path":"sprites/sKitchenTiles/sKitchenTiles.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sKitchenTiles","path":"sprites/sKitchenTiles/sKitchenTiles.yy",},"resourceVersion":"1.0","name":"97522921-ebb2-410f-b063-19daf937cdc8","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"b7bc3d1c-329a-49cc-bbd6-631f5772438d","path":"sprites/sKitchenTiles/sKitchenTiles.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"b7bc3d1c-329a-49cc-bbd6-631f5772438d","path":"sprites/sKitchenTiles/sKitchenTiles.yy",},"LayerId":{"name":"2896d581-e280-4675-8739-19cb0681db0c","path":"sprites/sKitchenTiles/sKitchenTiles.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sKitchenTiles","path":"sprites/sKitchenTiles/sKitchenTiles.yy",},"resourceVersion":"1.0","name":"b7bc3d1c-329a-49cc-bbd6-631f5772438d","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"sKitchenTiles","path":"sprites/sKitchenTiles/sKitchenTiles.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"967e3636-228b-43ab-b9dc-c5208258ba71","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"97522921-ebb2-410f-b063-19daf937cdc8","path":"sprites/sKitchenTiles/sKitchenTiles.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"b348c1bf-149f-4e5d-8c50-329261a09048","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b7bc3d1c-329a-49cc-bbd6-631f5772438d","path":"sprites/sKitchenTiles/sKitchenTiles.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"dc95458e-c69e-4bcb-afce-1941572564b8","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"2896d581-e280-4675-8739-19cb0681db0c","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Sprites",

@@ -43,5 +43,5 @@ function PlayerStateFree(){
 	if(hsp != 0) image_xscale = sign(hsp);
 	
 	//Enemy Collision
-	HitEnemy(oBee, oWalkEnemy);
+	HitEnemy(oBee, oWalkEnemy, oVenom, oSnake);
 }
